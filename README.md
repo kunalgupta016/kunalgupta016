@@ -16,10 +16,9 @@ I'm a passionate *Computer Science and Engineering* student at *Poornima College
 ---
 
 ### 🚀 Highlighted Projects
-- *[Neet](#)*: A project that demonstrates my skills in [describe briefly here].
-- *[Bubble Game](#)*: A fun interactive game showcasing my expertise in [describe briefly here].
+- *[Neet](https://github.com/kunalgupta016/Neet)*: A project that demonstrates my skills in React & Tailwind CSS.
+- *[Bubble Game](https://github.com/kunalgupta016/Bubble-Game)*: A fun interactive game showcasing my expertise in HTML, CSS & JS.
 
-(Feel free to provide descriptions or links for these projects if you'd like to include them.)
 
 ---
 
