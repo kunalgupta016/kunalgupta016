@@ -30,5 +30,5 @@ I'm a passionate *Computer Science and Engineering* student at *Poornima College
 
 ### 📈 My Goals
 - Master *DSA* concepts and become proficient in competitive programming.
-- Build innovative projects using *React, **Node.js, and **Google Cloud*.
+- Build innovative projects using *React*, **Node.js**, and **Google Cloud**.
 - Explore and take a step into the world of *Machine Learning*.
