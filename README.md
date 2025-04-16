@@ -1,7 +1,7 @@
 # Hi, I'm Kunal Gupta! 👋
 
 ### 🌟 About Me
-I'm a passionate *Computer Science and Engineering* student at *Poornima College of Engineering, Jaipur. I love building projects, solving problems, and exploring the vast field of technology. Currently, I'm diving deep into **Data Structures and Algorithms (DSA)* and taking my first steps into the exciting world of *Machine Learning*.
+I'm a passionate *Computer Science and Engineering* student at *Poornima College of Engineering, Jaipur*. I love building projects, solving problems, and exploring the vast field of technology. Currently, I'm diving deep into **Data Structures and Algorithms (DSA)** and taking my first steps into the exciting world of *Machine Learning*.
 
 ---
 
