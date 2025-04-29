@@ -9,7 +9,7 @@ I'm a passionate *Computer Science and Engineering* student at *Poornima College
 - *Frontend Development*: HTML, CSS, JavaScript, React, TailwindCSS
 - *Animation Libraries*: Framer Motion, GSAP (currently learning)
 - *Programming*: C++, Python
-- *Backend*: Node.js, Express.js (currently learning)
+- *Backend*: Node.js, mongodb , , data association Express.js (currently learning)
 - *Cloud*: Google Cloud (currently exploring)
 - *DSA*: Solving problems on LeetCode, Coding Ninjas, and GeeksforGeeks
 
