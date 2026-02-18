@@ -16,9 +16,10 @@ I'm a passionate *Computer Science and Engineering* student at *Poornima College
 ---
 
 ### 🚀 Highlighted Projects
-- *[Neet](https://github.com/kunalgupta016/Neet)*: A project that demonstrates my skills in React & Tailwind CSS.
-- *[Bubble Game](https://github.com/kunalgupta016/Bubble-Game)*: A fun interactive game showcasing my expertise in HTML, CSS & JS.
-
+- *[ai_resume_builder](https://github.com/kunalgupta016/ai_resume_builder)*: An AI-powered tool for building resumes.
+- *[DSA_QUEST](https://github.com/kunalgupta016/DSA_QUEST)*: A comprehensive Data Structures and Algorithms learning project.
+- *[stickman_adventure](https://github.com/kunalgupta016/stickman_adventure)*: An interactive adventure game.
+- *[Bulls_Cows](https://github.com/kunalgupta016/Bulls_Cows)*: A number guessing game implementation.
 
 ---
 
